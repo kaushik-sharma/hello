@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597833034950",
+    "firebase_url": "https://chat-mate-5f39d-default-rtdb.firebaseio.com",
+    "project_id": "chat-mate-5f39d",
+    "storage_bucket": "chat-mate-5f39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597833034950:android:2d7a90e7c90fd107653bc7",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597833034950-876ouanrqs098k8utq91bcu0036urekf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V1db2KCBm70O0RlEsQG88eoySHK8yqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597833034950-876ouanrqs098k8utq91bcu0036urekf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
